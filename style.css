@@ -2,6 +2,12 @@ body {
     background-color: beige;
     text-align: center;
 }
+h1 {
+    color: rgb(1, 134, 211);
+}
 p {
-    color: blueviolet;
+    color: rgb(63, 63, 63);
+}
+img {
+    border-radius: 20%;
 }
